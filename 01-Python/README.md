@@ -1,0 +1,12 @@
+Topics covered:
+- Variables
+- Data Types
+- Input/Output
+- Operators
+- Conditions
+- Loops
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Functions
