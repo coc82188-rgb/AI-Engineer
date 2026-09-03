@@ -1,0 +1,15 @@
+## Topics Covered
+- Pandas basics
+- Series
+- DataFrame
+- Loading CSV files
+- Dataset inspection
+- Selecting rows and columns
+- Filtering data
+- Missing values
+- dropna()
+- fillna()
+- Sorting data
+- Basic aggregation
+- Duplicate values
+- Data types
